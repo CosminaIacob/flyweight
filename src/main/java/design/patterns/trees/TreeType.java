@@ -2,7 +2,7 @@ package design.patterns.trees;
 
 import java.awt.*;
 
-// contains state shared by several trees
+// contains state shared by several trees (intrinsic) - flyweight
 public class TreeType {
 
     private String name;

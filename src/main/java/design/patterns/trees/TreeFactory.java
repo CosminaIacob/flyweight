@@ -4,6 +4,7 @@ import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 
+// flyweight factory
 public class TreeFactory {
 
     static Map<String, TreeType> treeTypes = new HashMap<>();

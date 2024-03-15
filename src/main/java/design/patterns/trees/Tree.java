@@ -2,7 +2,7 @@ package design.patterns.trees;
 
 import java.awt.*;
 
-// Contains state unique for each tree
+// Contains state unique for each tree (extrinsic) - context - client
 public class Tree {
 
     private int x;

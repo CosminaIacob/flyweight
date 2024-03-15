@@ -9,7 +9,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// forest, which we draw
+// forest, which we draw - client
 public class Forest extends JFrame {
 
     private List<Tree> trees = new ArrayList<>();
